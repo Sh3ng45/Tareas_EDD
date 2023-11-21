@@ -1,3 +1,4 @@
+Fecha: 06/06/2022 
 El metodo de compilación utilizado es el de g++
 Instrucciones:
 para la pregunta 1, se usa la linea de Codigo: g++ mainP1.cpp -o output1 -Wall
