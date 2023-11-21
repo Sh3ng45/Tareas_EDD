@@ -1,0 +1,4 @@
+Matías Agustinos - 202104674-7     - Paralelo 203
+Francisco Dominguez - 202104520-1  - Paralelo 202
+Vicente Henriquez - 202051507-7    - Paralelo 203
+En general trabajamos en conjunto, programando al mismo tiempo de manera online a traves de VS Code con la extensión de "Live share".

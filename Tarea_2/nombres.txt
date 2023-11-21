@@ -1,0 +1,5 @@
+Matías Agustinos - 202104674-7 --> Codigo del problema 1
+Francisco Dominguez - 202104520-1 --> Codigo del problema 1
+Vicente Henriquez - 202051507-7 --> Codigo del problema 2
+
+En general trabajamos en conjunto, programando al mismo tiempo de manera online a traves de VS Code con la extensión de "Live share".
