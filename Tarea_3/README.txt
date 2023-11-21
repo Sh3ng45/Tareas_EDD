@@ -1,3 +1,4 @@
+Fecha: 11/07/2022
 Se encuentran dos carpetas:
 Pregunta 1: se encuentra el archivo cache-diccionario.cpp
 Pregunta 2: se encuentran los archivos: -TDA.hpp (aqui esta implementado el TDA grafo)
